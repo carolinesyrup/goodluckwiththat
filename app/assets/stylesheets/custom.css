@@ -1,0 +1,39 @@
+.hero-unit {
+	margin-top: 20px;
+	padding: 25px;
+	border: #01c38a 2px dotted;
+}
+
+.hero-unit h1 {
+	color: #01c38a;
+	text-transform: uppercase;
+	text-align: center;
+	line-height: 70px;
+}
+
+.table th {
+	color: #01c38a;
+	text-transform: uppercase;
+}
+
+p.descrip {
+	text-align: center;
+	line-height: 40px;
+}
+
+p.button {
+	text-align: center;
+	margin-top: 20px;
+}
+
+td.title a {
+	text-transform: uppercase;
+}
+
+a {
+	color: #c3b301;;
+}
+
+.btn-primary {
+	background-image: linear-gradient(to bottom, #01c38a, #02835d);
+}
